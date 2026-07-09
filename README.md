@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Tahir 👋</h1>
-<h3 align="center">AI/ML Engineer | Python | FastAPI | LangChain | LLMs</h3>
+<h3 align="center">AI/ML Engineer | Python | FastAPI | LangChain | Langgraph |Deepagents| Openclaw | LLMS</h3>
 
 <p align="center">
   <a href="mailto:tahiryaqoob2002@gmail.com">📧 Email</a> •
@@ -10,10 +10,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 CS Graduate (June 2026) with 1+ year of hands-on AI/ML internship experience
+- 🎓 CS Graduate (June 2026) with 1+ year of hands-on AI/ML experience
 - 🔭 I build **RAG chatbots, ML pipelines, and secure REST APIs** using Python & FastAPI
 - 🌱 Currently deepening my expertise in **Agentic AI & LLM-based systems**
-- 💬 Ask me about **FastAPI, LangChain, NLP, or ML pipelines**
+- 💬 Ask me about **FastAPI, LangChain, NLP,Langraph,Deepagents or ML pipelines**
 - 📍 Based in Lahore, Pakistan
 
 ---
